@@ -4,6 +4,8 @@ Projeto desenvolvido como projeto da UC Programação de Soluções Computaciona
 - Bruna de Oliveira - RA: 122026787
 - Jéssica Yohana Otto - RA: 122022722
 - Suelen cristina da Rosa - RA: 122422589
+
+
 Link do escopo do trabalho: [https://drive.google.com/file/d/1h72oH77rRf8Z3nVPzrTxlsM6kwsP4nHD/view?usp=sharing](https://drive.google.com/file/d/1h72oH77rRf8Z3nVPzrTxlsM6kwsP4nHD/view?usp=sharing)
 
 ### Módulo de Alunos
