@@ -1,6 +1,10 @@
 # Sistema de Gerenciamento de Academia
 
-Projeto desenvolvido como projeto da UC Programação de Soluções Computacionais 
+Projeto desenvolvido como projeto da UC Programação de Soluções Computacionais pelas alunas:
+Link do escopo do trabalho: [https://drive.google.com/file/d/1h72oH77rRf8Z3nVPzrTxlsM6kwsP4nHD/view?usp=sharing](https://drive.google.com/file/d/1h72oH77rRf8Z3nVPzrTxlsM6kwsP4nHD/view?usp=sharing)
+Bruna de Oliveira - RA: 122026787
+Jéssica Yohana Otto - RA: 122022722
+Suelen cristina da Rosa - RA: 122422589
 
 ### Módulo de Alunos
 - Cadastro de aluno com nome, CPF, data de nascimento, telefone e e-mail
